@@ -1,3 +1,25 @@
+# Jill Plansky
+
+# Overview
+Project 4 Paper trader app - This app allows a user to buy and sell stocks.
+
+# Technologies used
+React, HTML, CSS, Stock API, and Sequelize
+
+# Ideas for future improvement
+Better styling of the app, make the UI more visually appealing. Add a historical section to show past history on stocks bought and sold and quantify earnings.
+
+# User Stories
+As a stock trader, I want to log in and easily buy and sell stocks.
+
+As a hobby trader, I want to research and buy and sell stocks.
+
+As a beginner trader, I want to be able to learn about how to.
+
+# Presentational & Container Components
+Added Ant Design icons
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
